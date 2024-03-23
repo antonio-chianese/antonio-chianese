@@ -31,13 +31,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/antonio-chianese/count.svg?"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/antonio-chianese/antonio-chianese/output/snake.svg" alt="Snake animation" />
-
-###
