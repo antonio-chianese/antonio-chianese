@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning data science<br>🎯 Goals: become a data scientist</p>
+<p align="left">📚 ...<br>🎯 ...</p>
 
 ###
 
